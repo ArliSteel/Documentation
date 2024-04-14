@@ -11,3 +11,7 @@
 ### 🔐 Разработка тест-кейсов для генератора паролей.
  ✅ [Test-case](https://docs.google.com/spreadsheets/d/183Cz1mH7Q_32ETk6H8S58ePlnQkF-vgLbbAQqGuW09o/edit?usp=sharing)
 <br> 📃 [Task](https://drive.google.com/file/d/1MQoGGqNZq6H3inXSDOrgP9LfDTgFHo7s/view?usp=sharing)
+
+### 📝 Тестирование формы для регистрации.
+ ✅ [Test-case/check-list](https://docs.google.com/spreadsheets/d/1m2FVX61ByL9fGLEuE_A1UcPH7Ho9ONhf55w86WESaFc/edit?usp=sharing)
+<br> 📃 [Task](https://drive.google.com/file/d/1TNEsA0Isl_TFgMPB2euq0ayjsf_qgWko/view?usp=sharing)
