@@ -20,4 +20,4 @@ Soon...
 <br> 📃 [Task](https://drive.google.com/file/d/1TNEsA0Isl_TFgMPB2euq0ayjsf_qgWko/view?usp=sharing)
 
 ### 📝 Исследовательское тестирование сайта. Пример баг репорта.
-✅ [Bug Report]([https://docs.google.com/spreadsheets/d/1m2FVX61ByL9fGLEuE_A1UcPH7Ho9ONhf55w86WESaFc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1lUkZRYju_Dj9Jm1Nc8gF832zbAprMeI1qBMNjo_rlLo/edit?usp=sharing))
+✅ [Bug Report](https://docs.google.com/spreadsheets/d/1lUkZRYju_Dj9Jm1Nc8gF832zbAprMeI1qBMNjo_rlLo/edit?usp=sharing)
