@@ -21,3 +21,6 @@ Soon...
 
 ### 📝 Исследовательское тестирование сайта. Пример баг репорта.
 ✅ [Bug Report](https://docs.google.com/spreadsheets/d/1lUkZRYju_Dj9Jm1Nc8gF832zbAprMeI1qBMNjo_rlLo/edit?usp=sharing)
+
+### 📝 Ad-hoc тестирование методом черного ящика страницы регистрации для проекта dobro.ru
+✅ [Check-list](https://docs.google.com/spreadsheets/d/1m2FVX61ByL9fGLEuE_A1UcPH7Ho9ONhf55w86WESaFc/edit?usp=sharing)
