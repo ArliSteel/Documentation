@@ -19,8 +19,14 @@ Soon...
  ✅ [Test-case/check-list](https://docs.google.com/spreadsheets/d/1m2FVX61ByL9fGLEuE_A1UcPH7Ho9ONhf55w86WESaFc/edit?usp=sharing)
 <br> 📃 [Task](https://drive.google.com/file/d/1TNEsA0Isl_TFgMPB2euq0ayjsf_qgWko/view?usp=sharing)
 
-### 📝 Исследовательское тестирование сайта. Пример баг репорта.
+### 📝 Исследовательское тестирование. Пример баг репорта.
 ✅ [Bug Report](https://docs.google.com/spreadsheets/d/1lUkZRYju_Dj9Jm1Nc8gF832zbAprMeI1qBMNjo_rlLo/edit?usp=sharing)
 
-### 📝 Ad-hoc тестирование методом черного ящика страницы регистрации для проекта dobro.ru
+### 👩🏻‍💻 Ad-hoc тестирование методом черного ящика страницы регистрации для проекта dobro.ru
 ✅ [Check-list](https://docs.google.com/spreadsheets/d/1m2FVX61ByL9fGLEuE_A1UcPH7Ho9ONhf55w86WESaFc/edit?usp=sharing)
+
+### ⚙️ Подготовка схемы жизненного цикла, разработка тест-кейсов и тестирование прототипа интерфейса.
+📄 [Technical documentation](https://docs.google.com/document/d/1wzFypNvGKlE2qYFJMFHy5aUUPQaTmIUE/edit?usp=sharing&ouid=112970248888264699024&rtpof=true&sd=true)
+<br> 📊📈 [Workflow](https://drive.google.com/file/d/15gC1HEZZdjLsrLhhbfxU2HpUWGxfmHxD/view?usp=sharing)
+<br> 🖼️ [Testing the layout](https://docs.google.com/document/d/1jI5RXScJPSt-lnj_Ik_LlBq7L-qTxOTQ/edit?usp=sharing&ouid=112970248888264699024&rtpof=true&sd=true)
+<br> ✅ [Test-case](https://docs.google.com/document/d/18vSG6kqcfMqX944GTNfrkIj4lEsLX3oo/edit?usp=sharing&ouid=112970248888264699024&rtpof=true&sd=true)
