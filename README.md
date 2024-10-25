@@ -11,6 +11,10 @@ Soon...
 <br> 📃 [Task](https://drive.google.com/file/d/1F3ypVBiijpLiyYOsAhNvdqqDVLBXBC_X/view?usp=sharing)
 <br> 📝 [Comments](https://drive.google.com/file/d/19ywB-FRG5l8htoBqGm4Yp26dVcuQIrEP/view?usp=sharing)
 
+### 📝 Тестирование макета сайта, создание баг репорта.
+📃 [Task](https://docs.google.com/document/d/1YHDfQCKtrS9Kt2VnRSdMGEa05fQXYu9anz-VC-P0WAc/edit?usp=sharing)
+<br> ❗ [Bug Report](https://docs.google.com/spreadsheets/d/1MGswYU3K11nnRQtlAfGlKOJH7x8ebXkPPfbe6RLewA0/edit?usp=sharing)
+
 ### 🔐 Разработка тест-кейсов для генератора паролей.
  ✅ [Test-case](https://docs.google.com/spreadsheets/d/183Cz1mH7Q_32ETk6H8S58ePlnQkF-vgLbbAQqGuW09o/edit?usp=sharing)
 <br> 📃 [Task](https://drive.google.com/file/d/1MQoGGqNZq6H3inXSDOrgP9LfDTgFHo7s/view?usp=sharing)
